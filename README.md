@@ -1,4 +1,4 @@
-# Grip Data Science Internship Task 2
+# GRIP Data Science Internship Task 2
 ### A repository for the second task of the Data Science &amp; Business Analytics track of GRIP - The Sparks Foundation
 ---
 ### Task: Prediction Using Unsupervised ML
